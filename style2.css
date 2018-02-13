@@ -1,0 +1,35 @@
+header {
+  padding: 60px;
+  margin-bottom: 100px;
+}
+a{
+  color: black;
+}
+
+nav {
+
+  float: left;
+}
+
+nav ol{
+  list-style: none;
+}
+article div.main{
+  margin-bottom: 30px;
+}
+article{
+  float: left;
+
+}
+#control{
+  float: right;
+  margin: 20px;
+}
+body.white{
+  background-color: white;
+  color: black;
+}
+body.black{
+  background-color: black;
+  color: white;
+}
